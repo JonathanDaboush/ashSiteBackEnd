@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ash-back-end/ash-back-end.iml" filepath="$PROJECT_DIR$/ash-back-end/ash-back-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ashSiteBackEnd.iml" filepath="$PROJECT_DIR$/.idea/ashSiteBackEnd.iml" />
+    </modules>
+  </component>
+</project>
