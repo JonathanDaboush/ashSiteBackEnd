@@ -1,4 +1,6 @@
 # Spring Boot Backend for Ashok Dutta Project
+
+to use you must reconfigure the mysql configurations in applications.property to your account.
 ## to improve
 For the backend only configuration changes on the application.properties should alter to connect to the database.
  Note I used MySQL and port 8080. Also for the client he wants minimum costs so please use a serverless architecture.
