@@ -1,5 +1,7 @@
 # Spring Boot Backend for Ashok Dutta Project
-
+## to improve
+For the backend only configuration changes on the application.properties should alter to connect to the database.
+ Note I used MySQL and port 8080. Also for the client he wants minimum costs so please use a serverless architecture.
 ## Overview
 
 Welcome to the Spring Boot backend of the Ashok Dutta project, seamlessly connected to Amazon databases. This backend is designed to store models representing various aspects of the project, such as articles, conferences, and people. It acts as a robust bridge between the React front end and the Amazon databases, ensuring efficient communication and data management.
